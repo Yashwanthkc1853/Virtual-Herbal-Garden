@@ -1,5 +1,4 @@
-# Virtual-Herbal-Garden
-ChatGPT said:
+# Virtual-Herbal Garden
 
 🌿 Virtual Herbal Garden for AYUSH
 
